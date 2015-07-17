@@ -1,0 +1,28 @@
+{
+  "name": "node-incandescent-client",
+  "version": "1.0.0",
+  "description": "A node.js client for the Incandescent reverse image search API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaronHammond/node-incandescent-client.git"
+  },
+  "keywords": [
+    "Incandescent",
+    "reverse",
+    "image",
+    "search"
+  ],
+  "author": "Aaron Hammond <ahammond@mmit.edu> (http://ahammond.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaronHammond/node-incandescent-client/issues"
+  },
+  "homepage": "https://github.com/AaronHammond/node-incandescent-client",
+  "dependencies": {
+    "restler": "^3.3.0"
+  }
+}
